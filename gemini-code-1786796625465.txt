@@ -1,0 +1,3 @@
+cd C:\Users\Administrator\OneDrive\Desktop
+git init
+git add botzhh.py
